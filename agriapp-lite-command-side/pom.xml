@@ -1,0 +1,12 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>cl.angecom.agriapp.lite.commandside</groupId>
+  <artifactId>agriapp-lite-command-side</artifactId>
+  <version>0.0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <name>agriapp-lite-command-side</name>
+  <description>En este proyecto se mantendran todos los proyectos vinculados con el lado de los comandos</description>
+  <modules>
+  	<module>party-command-side</module>
+  </modules>
+</project>
