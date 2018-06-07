@@ -73,3 +73,5 @@ fabric.properties
 agriapp-lite-command-side/.idea/vcs.xml
 *.iml
 *.iml
+
+*/target/**
