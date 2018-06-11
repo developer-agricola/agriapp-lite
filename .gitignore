@@ -74,4 +74,7 @@ agriapp-lite-command-side/.idea/vcs.xml
 *.iml
 *.iml
 
-*/target/**
+.classpath
+.project
+.settings/
+target/
